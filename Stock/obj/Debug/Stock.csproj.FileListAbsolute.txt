@@ -1,0 +1,23 @@
+C:\Users\USER\Desktop\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Users\USER\Desktop\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\USER\Desktop\Stock\Stock\obj\Debug\Stock.StockMain.resources
+C:\Users\USER\Desktop\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\USER\Desktop\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\USER\Desktop\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\USER\Desktop\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\USER\Desktop\Stock\Stock\obj\Debug\Stock.pdb
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\bin\Debug\Stock.exe.config
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\bin\Debug\Stock.exe
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\bin\Debug\Stock.pdb
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.Login.resources
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.StockMain.resources
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.exe
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.pdb
+E:\Online Courses\Youtube\Stock Management System\Stock\Stock\obj\Debug\Stock.Products.resources
